@@ -1255,6 +1255,6 @@ class Developer extends Employee {
 ```
 
 - Các tài liệu tham khảo
-  [Reference - design-patterns of tsabunkar](https://github.com/tsabunkar/design-patterns)!
-  [Reference - design-patterns-JS of fbeline](https://github.com/fbeline/design-patterns-JS)!
-  [Reference - node-js-design-patterns of diegomais](https://github.com/diegomais/node-js-design-patterns)!
+  - [Reference - design-patterns of tsabunkar](https://github.com/tsabunkar/design-patterns)!
+  - [Reference - design-patterns-JS of fbeline](https://github.com/fbeline/design-patterns-JS)!
+  - [Reference - node-js-design-patterns of diegomais](https://github.com/diegomais/node-js-design-patterns)!
